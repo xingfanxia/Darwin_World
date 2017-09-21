@@ -1,0 +1,4 @@
+oodFay
+2
+LEFT
+GOTO 0

@@ -1,0 +1,7 @@
+Flytrap
+5
+IFENEMY 3
+LEFT
+GOTO 0
+INFECT
+GOTO 0
