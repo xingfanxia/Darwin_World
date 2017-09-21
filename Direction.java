@@ -11,23 +11,23 @@ public enum Direction {
     NORTH, EAST, SOUTH, WEST; 
    
     public static Direction getAt(int ord) {
-	return Direction.values()[ord];
+      return Direction.values()[ord];
     }
 
     // gets the direction to the right of this direction
     public Direction getRight() {
-	if (this == WEST)
-	    return NORTH;
-	else
-	    return Direction.values()[this.ordinal() + 1];
+      if (this == WEST)
+        return NORTH;
+      else
+        return Direction.values()[this.ordinal() + 1];
     }
 
     // gets the direction to the left of this direction
     public Direction getLeft() {
-	if (this == NORTH)
-	    return WEST;
-	else
-	    return Direction.values()[this.ordinal() - 1];
+      if (this == NORTH)
+        return WEST;
+      else
+        return Direction.values()[this.ordinal() - 1];
     }
 
     // shows example usage of the enum direction

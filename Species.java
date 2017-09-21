@@ -15,29 +15,29 @@ public class Species extends BaseSpecies {
     private int programSize;
 
     public Species(String filename) {
-	readFromFile(filename);
+      readFromFile(filename);
     }
-    
+
     public void print() {
-	for (int i=0; i<program.length; i++)
-	    System.out.println(program[i]);
+      for (int i=0; i<program.length; i++)
+        System.out.println(program[i]);
     }
 
     public String getName() {
-	return name;
+      return name;
     }
 
     public Instruction getInst(int k) {
-	return program[k];
+      return program[k];
     }
 
     public void createProgram(int size) {
-        program = new Instruction[size];
-        programSize = 0;
+      program = new Instruction[size];
+      programSize = 0;
     }
 
     public void  addInstruction(Instruction inst) {
-        program[programSize] = inst;
-        programSize++;
+      program[programSize] = inst;
+      programSize++;
     }
 }

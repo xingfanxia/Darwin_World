@@ -5,17 +5,17 @@
    get a String representation of the Point.
    --------------------------------------------------------------------------------------------------*/
 
-public class Point {
+   public class Point {
     public int x;
     public int y;
 
     public Point(int xx, int yy) {
-	x = xx;
-	y = yy;
-    }
+     x = xx;
+     y = yy;
+   }
 
     // returns a formatted String representation of the current Point
-    public String toString() {
-	return "("+x+","+y+")";
-    }
-}
+   public String toString() {
+     return "("+x+","+y+")";
+   }
+ }

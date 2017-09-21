@@ -10,11 +10,11 @@ public enum Operation {
     
     // returns the operation that matches a String of the same name, or null if no match found
     public static Operation findOpFromString(String testString) {
-	for (Operation op : Operation.values()) {
-	    if (op.name().equals(testString)) 
-		return op;
-	}
-	return null;
+    	for (Operation op : Operation.values()) {
+    	    if (op.name().equals(testString)) 
+    		    return op;
+    	}
+    	return null;
     }
 
     /* shows example use of the Operation enum type. See Direction.java for more specifics

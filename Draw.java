@@ -98,15 +98,15 @@ public final class Draw implements MouseListener, KeyListener {
         if (w < 1 || h < 1) throw new RuntimeException("width and height must be positive");
         width = w;
         height = h;
-	System.out.println(height);
+        System.out.println(height);
 
         frame = new JFrame();
         offscreenImage = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
         onscreenImage  = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
         offscreen = offscreenImage.createGraphics();
         onscreen  = onscreenImage.createGraphics();
-	offscreen.setPaintMode();
-	offscreen.setColor(DEFAULT_CLEAR_COLOR);
+        offscreen.setPaintMode();
+        offscreen.setColor(DEFAULT_CLEAR_COLOR);
         offscreen.fillRect(0, 0, width, height);
         setPenColor(DEFAULT_PEN_COLOR);
         setPenRadius(DEFAULT_PEN_RADIUS);
@@ -129,7 +129,7 @@ public final class Draw implements MouseListener, KeyListener {
         frame.setResizable(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);            // closes all windows
         frame.setTitle(title);
-	frame.pack();
+        frame.pack();
         frame.requestFocusInWindow();
         frame.setVisible(true);
     }
@@ -291,8 +291,8 @@ public final class Draw implements MouseListener, KeyListener {
      * @throws RuntimeException if r is negative
      */
     public static void filledSquare(double x, double y, double r) {
-  if (r < 0) throw new RuntimeException("square side length can't be negative");
-	if (r <= 1) pixel(x, y);
+        if (r < 0) throw new RuntimeException("square side length can't be negative");
+	    if (r <= 1) pixel(x, y);
         else offscreen.fill(new Rectangle2D.Double(x - r, y - r, 2*r, 2*r));
         draw();
     }
@@ -325,7 +325,7 @@ public final class Draw implements MouseListener, KeyListener {
      * @throws RuntimeException if halfWidth or halfHeight is negative
      */
     public static void filledRectangle(double x, double y, double halfWidth, double halfHeight) {
-      if (halfWidth  < 0) throw new RuntimeException("half width can't be negative");
+        if (halfWidth  < 0) throw new RuntimeException("half width can't be negative");
         if (halfHeight < 0) throw new RuntimeException("half height can't be negative");
         double ws = 2*halfWidth;
         double hs = 2*halfHeight;
