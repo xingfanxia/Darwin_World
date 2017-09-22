@@ -1,4 +1,1 @@
-Hop
-2
-HOP
-GOTO 0
+Hop2HOPGOTO 0

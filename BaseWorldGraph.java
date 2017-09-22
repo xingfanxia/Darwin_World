@@ -1,5 +1,6 @@
 /* Code by Sherri Goings
    For Darwin Final Project in CS201 (Data Structures)
+   Last Modified for Fall 2011 Term
    --------------------------------------------------------------------------------------------------
    The WorldGraph class creates the actual "physical" world as a graph where each cell in the 
    theoretical world grid is represented as a Vertex and edges between vertices represent a connected
@@ -14,7 +15,7 @@ import java.util.*;
 
 public abstract class BaseWorldGraph {
 
-    /* Part of the Vertex class. Start by cutting and pasting this into your WorldGraph
+    /* Part of the Vertex class. Start by copying and pasting this into your WorldGraph
        class. Depending on what graph implementation you use it will look different, 
        but definitely a Vertex should be able to store a Creature if one is at that cell 
        in the grid. 

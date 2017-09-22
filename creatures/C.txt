@@ -1,0 +1,23 @@
+CornerMine
+18
+IFENEMY 5
+IFWALL 7
+IFSAME 7
+HOP
+GOTO 0
+INFECT
+GOTO 0
+LEFT
+IFENEMY 16
+IFWALL 13
+IFSAME 13
+HOP
+GOTO 8
+IFENEMY 16
+LEFT
+GOTO 13
+INFECT
+GOTO 13
+
+Finds a corner or self on wall and acts like a swiveling landmine.
+Sean Beckwith

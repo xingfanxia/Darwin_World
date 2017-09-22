@@ -15,7 +15,6 @@ public abstract class BaseWorld {
     protected int width;
     protected int height;
 
-    
    
     /* CONSTRUCTOR: public World(int width, int height, int seed);
        World constructor should create worldGraph and worldMap instances, and
@@ -32,12 +31,12 @@ public abstract class BaseWorld {
     /* adds one random wall to certain internal cells in the world grid 
        Arguments: width and height of the world. */
     public void addWalls(int width, int height) {
-       for (int i=1; i<width-1; i+=2) {
-         for (int k=1; k<height-1; k+=2) {
-          Point curP = new Point(i,k);
-          addWall(curP);
+	for (int i=1; i<width-1; i+=2) {
+	    for (int k=1; k<height-1; k+=2) {
+		Point curP = new Point(i,k);
+                addWall(curP);
+            }
         }
-      }
     }
 
     public abstract Point getOpenPoint();

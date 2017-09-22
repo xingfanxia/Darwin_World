@@ -20,52 +20,53 @@ public abstract class BaseSpecies {
     */
 
     public void addAlive() { numAlive++; }
-    public void decAlive() { 
-      numAlive--; 
-      if (numAlive == 0)
-        System.out.println("Species "+name+" has been eliminated!");
+    public void decAlive() 
+    { 
+        numAlive--; 
+        if (numAlive == 0)
+            System.out.println("Species "+name+" has been eliminated!");
     }
     public int getAlive() { return numAlive; }
     public int getColor() { return color; }
 
     public void readFromFile(String filename) {
-     try{
+	try{
             // create the file reader
-       Scanner scan = new Scanner(new File(filename));
-
+      	    Scanner scan = new Scanner(new File(filename));
+            
             // get the Species name and the total number of Instructions in its program
-       name = scan.next();
-       scan.nextLine();
-       int numInsts = scan.nextInt();           
-       createProgram(numInsts);
+	    name = scan.next();
+            scan.nextLine();
+            int numInsts = scan.nextInt();           
+            createProgram(numInsts);
 
-       scan.nextLine();
-
+            scan.nextLine();
+	   	    
             // go through each line of the Species file, skipping blank lines
-       while (scan.hasNextLine()) {
-        String s = scan.nextLine();
-        if (s.length()<1)
-          break;
+	    while (scan.hasNextLine()) {
+		String s = scan.nextLine();
+		if (s.length()<1)
+		    break;
 
                 // create a new reader to parse just this individual line
-        Scanner sScan = new Scanner(s);
+		Scanner sScan = new Scanner(s);
 
                 // read the String representation of the Operation and search the Operation
                 // enum to find the matching Operation object
-        String opString = sScan.next();
-        Operation curOp = Operation.findOpFromString(opString);
+		String opString = sScan.next();
+		Operation curOp = Operation.findOpFromString(opString);
 
                 // if this Operation has a line number argument, read and save it too
-        int argument = 0;
-        if (sScan.hasNextInt())
-          argument = sScan.nextInt();
-        addInstruction(new Instruction(curOp, argument));
-      }
+		int argument = 0;
+		if (sScan.hasNextInt())
+		    argument = sScan.nextInt();
+		addInstruction(new Instruction(curOp, argument));
+	    }
 
-    }catch (IOException e){
-     System.err.println("Error: " + e.getMessage());
-   }
- }
+	}catch (IOException e){
+	    System.err.println("Error: " + e.getMessage());
+	}
+    }
     
     // returns the kth instruction from your Instruction list
     public abstract Instruction getInst(int k);

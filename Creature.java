@@ -1,171 +1,138 @@
-/* Code by Makala Hieshima and Xingfan Xia
+/* Code by Sherri Goings
    For Darwin Final Project in CS201 (Data Structures)
-   Last Modified 9 March 2016
+   Last Modified for Fall 2011 Term
    --------------------------------------------------------------------------------------------------
-   The Creature class represents an individual Creature in the Darwin world. It stores the Creature's 
-   Species, it's current location on the world grid, the direction it's currently facing, 
-   the instruction from its Species program it should execute next, and the World object it lives
-   in so it can interact with and affect that world. Implements takeOneTurn() function to perform one
-   full turn of the Creature. Depends on Species, Point, and World classes, and Direction enum.
+   The WorldMap class handles all of the graphics in the Darwin simluation. It depends on the 
+   Draw class for the actual drawing, and also the Point class and Direction enum for other operations. 
    --------------------------------------------------------------------------------------------------*/
-   
-import java.util.Random; //use for rgen
 
 public class Creature extends BaseCreature {
-  public Creature(BaseSpecies species, Point point, Direction direction, BaseWorld world) {
-    //init Creature class
-    this.species = species;
-    this.point = point;
-    this.dir = direction;
-    this.world = world;
-    this.curK = 0;
-  }
-  
-  public String toString(){
-    //concert it to String
-    String str = "";
-    str = str + "Creature of species " + this.species.getName() + " at point " + this.point + " with direction " + this.dir;
-    return str;
-  }
-  
-  // gets this Creature's current species
-  public BaseSpecies getSpecies(){
-    //return specie
-    return this.species;
-  }
-  
-  // changes this Creature's current species
-  public void setSpecies(BaseSpecies species){
-    //set to target specie
-    this.species = species;
-  }
-  
-  // gets this Creature's current location in the world grid
-  public Point getPoint(){
-    //return the point
-    return this.point;
-  }
-  
-  // gets this Creature's current facing direction
-  public Direction getDir(){
-    return this.dir;
-  }
-  
-  // sets this Creature's current facing direction
-  public void setDir(Direction direction){
-    this.dir = direction;
-  }
-  
-  // sets this Creature's current instruction to the given newK argument
-  public void setK(int cur){
-    this.curK = cur;
-  }
-  
-  /* Performs one turn of a Creature.  A turn goes until one of the 4 actions is taken (left, right,
-     hop, or infect) and then immediately ends. The creature can execute as many if statements as it
-     wants in one turn to decide on an action, but can only perform one action. */
-  public void takeOneTurn(){
-    Instruction inst = this.species.getInst(this.curK); //get instruction
-    Operation op = inst.op; //get op code for the instruction
-    int i = inst.argument; //get the argument if there is any
-    BaseCreature creatureA; //temp creature
-    Point curPoint = this.world.worldGraph().adjPoint(this.point, this.dir); //set cur point
-    if ((curPoint != null) && (!this.world.worldGraph().getEdge(this.point, curPoint))) { //if same point
-      curPoint = null; 
+
+    public Creature(BaseSpecies spec, Point p, Direction d, BaseWorld w) {
+	species = spec;
+	point = p;
+	dir = d;
+	world = w;
+	curK = 0;
     }
     
-    switch (op) //do the corresponding instruction to specific op code
-    {
-      case HOP:  //if hop
-        if ((curPoint != null) && (this.world.worldGraph().getCreature(curPoint) == null)){
-          this.world.worldGraph().addCreature(curPoint, this);
-          this.world.worldGraph().removeCreature(this.point);
-          this.point = curPoint; //go ahead
-        }
-        this.curK++; //increment curK
-        break;
-      case LEFT: 
-        this.dir = this.dir.getLeft(); 
-        this.curK++;
-        break;
-      case RIGHT: 
-        this.dir = this.dir.getRight();
-        this.curK++;
-        break;
-      case INFECT: 
-        if (curPoint != null) {
-          creatureA = this.world.worldGraph().getCreature(curPoint); //set creature
-          if ((creatureA != null) && (!creatureA.getSpecies().getName().equals(this.species.getName()))){ //if not ally
-            creatureA.getSpecies().decAlive();
-            this.species.addAlive();
-            creatureA.setSpecies(this.species);
-            creatureA.setDir(Direction.getAt(BaseWorld.rgen.nextInt(3)));
-            creatureA.setK(0);
-            this.world.worldMap().updateSquare(creatureA.point, " ", creatureA.dir);
-            this.world.worldMap().updateSquare(creatureA.point, creatureA.getSpecies().getName().substring(0, 1), creatureA.dir);
-          }
-        }
-        this.curK++; //increment curK
-        break;
-      case IFEMPTY: 
-        if ((curPoint != null) && (this.world.worldGraph().getCreature(curPoint) == null)) {
-          this.curK = i;
-        } else {
-          this.curK++;
-        }
-        takeOneTurn(); //recursive call
-        break; //and break
-      case IFWALL: 
-        if (curPoint == null) {
-          this.curK = i;
-        } else {
-          this.curK++;
-        }
-        takeOneTurn();
-        break;
-      case IFSAME: 
-        if (curPoint != null)
-        {
-          creatureA = this.world.worldGraph().getCreature(curPoint);
-          if ((creatureA != null) && (creatureA.getSpecies().getName().equals(this.species.getName()))) {//if same specie
-            this.curK = i;
-          } else {
-            this.curK++;
-          }
-        }
-        else
-        {
-          this.curK++;
-        }
-        takeOneTurn();
-        break;
-      case IFENEMY: 
-        if (curPoint != null)
-        {
-          creatureA = this.world.worldGraph().getCreature(curPoint);
-          if ((creatureA != null) && (!creatureA.getSpecies().getName().equals(this.species.getName()))) {//if enemy
-            this.curK = i;
-          } else {
-            this.curK++;
-          }
-        }
-        else
-        {
-          this.curK++;
-        }
-        takeOneTurn();
-        break;
-      case IFRANDOM: 
-        if (BaseWorld.rgen.nextDouble() < 0.5D) {//do random stuff
-          this.curK = i;
-        } else {
-          this.curK++;
-        }
-        takeOneTurn();
-        break;
-      case GOTO: 
-        this.curK = i;
-        takeOneTurn();
+    public String toString() {
+	String ret = "";
+	ret += "Creature of species "+species.getName()+" at point "+point+" with direction "+dir;
+	return ret;
     }
-  }
+
+    public BaseSpecies getSpecies() { return species; }
+
+    public void setSpecies(BaseSpecies spec) { species = spec; }
+    
+    public Point getPoint() { return point; }
+
+    public Direction getDir() { return dir; }
+
+    public void setDir(Direction d) { dir = d; }
+
+    public void setK(int k) { curK = k; }
+
+    public void takeOneTurn() {
+	Instruction curInst = species.getInst(curK);
+	Operation op = curInst.op;
+	int arg = curInst.argument;
+	Point facePoint = world.worldGraph().adjPoint(point, dir);
+        if (facePoint!=null && !world.worldGraph().getEdge(point, facePoint))
+            facePoint = null;
+
+	switch(op) {
+	case HOP:
+	    if (facePoint != null && world.worldGraph().getCreature(facePoint)==null) {
+		world.worldGraph().addCreature(facePoint, this);	    
+		world.worldGraph().removeCreature(point);
+		this.point = facePoint;
+	    }
+	    curK++;
+	    break;
+
+	case LEFT:
+	    dir = dir.getLeft();
+	    curK++;
+	    break;
+
+	case RIGHT:
+	    dir = dir.getRight();
+	    curK++;
+	    break;
+
+	case INFECT:
+	    if (facePoint != null) {
+		BaseCreature infected = world.worldGraph().getCreature(facePoint);
+		if (infected!=null && !infected.getSpecies().getName().equals(species.getName())) {
+                    infected.getSpecies().decAlive();
+                    species.addAlive();
+       		    infected.setSpecies(species);
+		    infected.setDir(Direction.getAt(world.rgen.nextInt(3)));
+		    infected.setK(0);
+                    world.worldMap().updateSquare(infected.point, " ", infected.dir, -1);
+                    world.worldMap().updateSquare(infected.point, infected.getSpecies().getName().substring(0,1), infected.dir, infected.getSpecies().getColor());
+		}	    
+	    }
+	    curK++;
+	    break;
+
+	case IFEMPTY:
+	    if (facePoint!=null && world.worldGraph().getCreature(facePoint)==null)
+		curK = arg;
+	    else
+		curK++;
+	    takeOneTurn();
+	    break;
+
+	case IFWALL:
+	    if (facePoint==null)
+		curK = arg;
+	    else
+		curK++;
+	    takeOneTurn();
+	    break;
+
+	case IFSAME:
+	    if (facePoint != null) {
+		BaseCreature facing = world.worldGraph().getCreature(facePoint);
+		if (facing != null && facing.getSpecies().getName().equals(species.getName()))
+		    curK = arg;
+		else
+		    curK++;
+	    }
+	    else
+		curK++;
+	    takeOneTurn();
+	    break;
+
+	case IFENEMY:
+	    if (facePoint != null) {
+		BaseCreature facing = world.worldGraph().getCreature(facePoint);
+		if (facing != null && !facing.getSpecies().getName().equals(species.getName()))
+		    curK = arg;
+		else
+		    curK++;
+	    }
+	    else
+		curK++;
+	    takeOneTurn();
+	    break;
+
+	case IFRANDOM:
+	    if (world.rgen.nextDouble()<.5) 
+		curK = arg;
+	    else
+		curK++;
+	    takeOneTurn();
+	    break;
+
+	case GOTO:
+	    curK = arg;
+	    takeOneTurn();
+	    break;
+	}
+
+    }
 }

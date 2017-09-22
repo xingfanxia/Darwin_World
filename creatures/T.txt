@@ -1,0 +1,22 @@
+TrapRover
+14
+IFENEMY 12
+IFWALL 4
+IFSAME 4
+GOTO 9
+IFRANDOM 7
+LEFT
+GOTO 0
+RIGHT
+GOTO 0
+IFRANDOM 4
+HOP
+GOTO 0
+INFECT
+GOTO 0
+
+The RoverTrap combines the Rover and Flytrap species.
+If it hits a wall or the same species it randomly turns left or right.
+Otherwise it randomly turns or hops.
+It infects if it sees another species.
+Sean Beckwith

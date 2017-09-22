@@ -37,6 +37,8 @@ public final class Draw implements MouseListener, KeyListener {
     public static final Color WHITE      = Color.WHITE;
     public static final Color YELLOW     = Color.YELLOW;
 
+    public static final Color[] colorList = { BLACK, BLUE, GREEN, MAGENTA, ORANGE, PINK, RED, LIGHT_GRAY, YELLOW, CYAN, DARK_GRAY, GRAY, WHITE };
+
     // default colors
     private static final Color DEFAULT_PEN_COLOR   = BLACK;
     private static final Color DEFAULT_CLEAR_COLOR = WHITE;
@@ -98,15 +100,15 @@ public final class Draw implements MouseListener, KeyListener {
         if (w < 1 || h < 1) throw new RuntimeException("width and height must be positive");
         width = w;
         height = h;
-        System.out.println(height);
+	System.out.println(height);
 
         frame = new JFrame();
         offscreenImage = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
         onscreenImage  = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
         offscreen = offscreenImage.createGraphics();
         onscreen  = onscreenImage.createGraphics();
-        offscreen.setPaintMode();
-        offscreen.setColor(DEFAULT_CLEAR_COLOR);
+	offscreen.setPaintMode();
+	offscreen.setColor(DEFAULT_CLEAR_COLOR);
         offscreen.fillRect(0, 0, width, height);
         setPenColor(DEFAULT_PEN_COLOR);
         setPenRadius(DEFAULT_PEN_RADIUS);
@@ -129,7 +131,7 @@ public final class Draw implements MouseListener, KeyListener {
         frame.setResizable(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);            // closes all windows
         frame.setTitle(title);
-        frame.pack();
+	frame.pack();
         frame.requestFocusInWindow();
         frame.setVisible(true);
     }
@@ -147,6 +149,7 @@ public final class Draw implements MouseListener, KeyListener {
      */
     public static void clear() { clear(DEFAULT_CLEAR_COLOR); }
 
+    public static void drawScreen() { draw(); }
     /**
      * Clear the screen to the given color.
      * @param color the Color to make the background
@@ -280,7 +283,7 @@ public final class Draw implements MouseListener, KeyListener {
         if (r < 0) throw new RuntimeException("square side length can't be negative");
 	if (r <= 1) pixel(x, y);
         else offscreen.draw(new Rectangle2D.Double(x - r, y - r, 2*r, 2*r));
-        draw();
+        //draw();
     }
 
     /**
@@ -291,10 +294,10 @@ public final class Draw implements MouseListener, KeyListener {
      * @throws RuntimeException if r is negative
      */
     public static void filledSquare(double x, double y, double r) {
-        if (r < 0) throw new RuntimeException("square side length can't be negative");
-	    if (r <= 1) pixel(x, y);
+  if (r < 0) throw new RuntimeException("square side length can't be negative");
+	if (r <= 1) pixel(x, y);
         else offscreen.fill(new Rectangle2D.Double(x - r, y - r, 2*r, 2*r));
-        draw();
+        // draw();
     }
 
 
@@ -325,7 +328,7 @@ public final class Draw implements MouseListener, KeyListener {
      * @throws RuntimeException if halfWidth or halfHeight is negative
      */
     public static void filledRectangle(double x, double y, double halfWidth, double halfHeight) {
-        if (halfWidth  < 0) throw new RuntimeException("half width can't be negative");
+      if (halfWidth  < 0) throw new RuntimeException("half width can't be negative");
         if (halfHeight < 0) throw new RuntimeException("half height can't be negative");
         double ws = 2*halfWidth;
         double hs = 2*halfHeight;
@@ -348,7 +351,7 @@ public final class Draw implements MouseListener, KeyListener {
             path.lineTo((float) x[i], (float) y[i]);
         path.closePath();
         offscreen.draw(path);
-        draw();
+        //draw();
     }
 
     /**
@@ -384,7 +387,7 @@ public final class Draw implements MouseListener, KeyListener {
         int ws = metrics.stringWidth(s);
         int hs = metrics.getDescent();
         offscreen.drawString(s, (float) (x - ws/2.0), (float) (y + hs));
-        draw();
+        //draw();
     }
 
     /**

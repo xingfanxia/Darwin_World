@@ -1,0 +1,31 @@
+FPhalanx
+25
+IFENEMY 10
+IFWALL 6
+IFSAME 12
+IFRANDOM 8
+HOP
+GOTO 0
+LEFT
+GOTO 0
+IFRANDOM 6
+GOTO 4
+INFECT
+GOTO 12
+IFENEMY 16
+IFRANDOM 18
+LEFT
+GOTO 12
+INFECT
+GOTO 12
+IFRANDOM 20
+GOTO 14
+IFRANDOM 22
+GOTO 14
+IFRANDOM 24
+GOTO 14
+GOTO 0
+
+Inspired by the legendary battle technique of the ancient Greeks, Phalanx has a roving mode and a stationary mode.  It hops forward, occasionally turning left, infecting when possible and turning when it hits a wall.  When it infects or hits family it becomes stationary, building a phalanx and turning and attacking.  It will occasionally exit stationary mode to resume hunting.
+
+The Phalanx species was bred and trained by Sean 'The Spartan' Beckwith.

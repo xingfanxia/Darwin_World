@@ -1,12 +1,1 @@
-Rover
-10
-IFENEMY 8
-IFWALL 5
-IFSAME 5
-HOP
-GOTO 0
-LEFT
-LEFT
-GOTO 0
-INFECT
-GOTO 0
+Rover14IFENEMY 12IFWALL 7IFSAME 7IFRANDOM 5IFRANDOM 7HOPGOTO 0IFRANDOM 10LEFTGOTO 0RIGHTGOTO 0INFECTGOTO 0The rover constantly moves forward.  When itruns into a wall or another rover, it randomlyturns left or right.

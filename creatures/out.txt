@@ -1,0 +1,1825 @@
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920799204
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species God has been eliminated!
+Species BestestThing has been eliminated!
+Species CornerMine has been eliminated!
+Species Dude has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Higuys has been eliminated!
+Species NewCreature has been eliminated!
+Species AConquerer has been eliminated!
+Species FPhalanx has been eliminated!
+Species TrapRover has been eliminated!
+Game over at generation 402, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920797112
+config file: config.txt
+population steps to run simulation: 1000
+Species Dude has been eliminated!
+Species Ploney has been eliminated!
+Species NewCreature has been eliminated!
+Species BestestThing has been eliminated!
+Species LetsDance has been eliminated!
+Species God has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Higuys has been eliminated!
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species TrapRover has been eliminated!
+Game over at generation 816, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920794929
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species LetsDance has been eliminated!
+Species God has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species CornerMine has been eliminated!
+Species Dude has been eliminated!
+Species FPhalanx has been eliminated!
+Species NewCreature has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 557, species BestestThing wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920792731
+config file: config.txt
+population steps to run simulation: 1000
+Species God has been eliminated!
+Species BestestThing has been eliminated!
+Species TrapRover has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species FPhalanx has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species Ploney has been eliminated!
+Species NewCreature has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 706, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920790600
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Species Dude has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species FPhalanx has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920788523
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Species Dude has been eliminated!
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+Species God has been eliminated!
+Species BestestThing has been eliminated!
+Species CornerMine has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 459, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920786524
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Species AConquerer has been eliminated!
+Species Dude has been eliminated!
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species God has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920784096
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Ploney has been eliminated!
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species NewCreature has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920781824
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species LetsDance has been eliminated!
+Species NewCreature has been eliminated!
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Higuys has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 241, species BestestThing wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920779861
+config file: config.txt
+population steps to run simulation: 1000
+Species NewCreature has been eliminated!
+Species BestestThing has been eliminated!
+Species TrapRover has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species Higuys has been eliminated!
+Species AConquerer has been eliminated!
+Species God has been eliminated!
+Species Ploney has been eliminated!
+Species LetsDance has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920777609
+config file: config.txt
+population steps to run simulation: 1000
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Species Higuys has been eliminated!
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species Dude has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920775545
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Higuys has been eliminated!
+Species Dude has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Species BestestThing has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920773321
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Dude has been eliminated!
+Species Higuys has been eliminated!
+Species FPhalanx has been eliminated!
+Species Ploney has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species BestestThing has been eliminated!
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920771187
+config file: config.txt
+population steps to run simulation: 1000
+Species FPhalanx has been eliminated!
+Species God has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Species TrapRover has been eliminated!
+Species Dude has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species NewCreature has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920769107
+config file: config.txt
+population steps to run simulation: 1000
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species NewCreature has been eliminated!
+Species AConquerer has been eliminated!
+Species TrapRover has been eliminated!
+Species Dude has been eliminated!
+Species FPhalanx has been eliminated!
+Species CornerMine has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 766, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920766928
+config file: config.txt
+population steps to run simulation: 1000
+Species LetsDance has been eliminated!
+Species AConquerer has been eliminated!
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species TrapRover has been eliminated!
+Species Dude has been eliminated!
+Species CornerMine has been eliminated!
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species God has been eliminated!
+Game over at generation 269, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920765003
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species God has been eliminated!
+Species CornerMine has been eliminated!
+Species NewCreature has been eliminated!
+Species Dude has been eliminated!
+Species BestestThing has been eliminated!
+Species AConquerer has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920762744
+config file: config.txt
+population steps to run simulation: 1000
+Species AConquerer has been eliminated!
+Species TrapRover has been eliminated!
+Species Dude has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Species Higuys has been eliminated!
+Species NewCreature has been eliminated!
+Species FPhalanx has been eliminated!
+Species Ploney has been eliminated!
+Species CornerMine has been eliminated!
+Game over at generation 401, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920760801
+config file: config.txt
+population steps to run simulation: 1000
+Species AConquerer has been eliminated!
+Species NewCreature has been eliminated!
+Species CornerMine has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species Dude has been eliminated!
+Species God has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species BestestThing has been eliminated!
+Species FPhalanx has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920758558
+config file: config.txt
+population steps to run simulation: 1000
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Species CornerMine has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species AConquerer has been eliminated!
+Species Dude has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 726, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920756224
+config file: config.txt
+population steps to run simulation: 1000
+Species CornerMine has been eliminated!
+Species NewCreature has been eliminated!
+Species Dude has been eliminated!
+Species God has been eliminated!
+Species TrapRover has been eliminated!
+Species LetsDance has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species BestestThing has been eliminated!
+Species AConquerer has been eliminated!
+Game over at generation 386, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920754221
+config file: config.txt
+population steps to run simulation: 1000
+Species LetsDance has been eliminated!
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species NewCreature has been eliminated!
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species TrapRover has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920751312
+config file: config.txt
+population steps to run simulation: 1000
+Species God has been eliminated!
+Species BestestThing has been eliminated!
+Species Dude has been eliminated!
+Species LetsDance has been eliminated!
+Species NewCreature has been eliminated!
+Species CornerMine has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Game over at generation 322, species TrapRover wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920749126
+config file: config.txt
+population steps to run simulation: 1000
+Species FPhalanx has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Species Higuys has been eliminated!
+Species CornerMine has been eliminated!
+Species TrapRover has been eliminated!
+Species LetsDance has been eliminated!
+Game over at generation 242, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920747072
+config file: config.txt
+population steps to run simulation: 1000
+Species LetsDance has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Higuys has been eliminated!
+Species TrapRover has been eliminated!
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species Dude has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 598, species CornerMine wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920744875
+config file: config.txt
+population steps to run simulation: 1000
+Species CornerMine has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species Dude has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920742606
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species Dude has been eliminated!
+Species BestestThing has been eliminated!
+Species AConquerer has been eliminated!
+Species Higuys has been eliminated!
+Species LetsDance has been eliminated!
+Species God has been eliminated!
+Species CornerMine has been eliminated!
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Species FPhalanx has been eliminated!
+Game over at generation 488, species EPatrolBot5000 wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920740614
+config file: config.txt
+population steps to run simulation: 1000
+Species LetsDance has been eliminated!
+Species FPhalanx has been eliminated!
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species NewCreature has been eliminated!
+Species CornerMine has been eliminated!
+Species TrapRover has been eliminated!
+Game over at generation 462, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920738504
+config file: config.txt
+population steps to run simulation: 1000
+Species Higuys has been eliminated!
+Species FPhalanx has been eliminated!
+Species CornerMine has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species God has been eliminated!
+Species LetsDance has been eliminated!
+Species Dude has been eliminated!
+Species NewCreature has been eliminated!
+Species AConquerer has been eliminated!
+Game over at generation 158, species BestestThing wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920736473
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species CornerMine has been eliminated!
+Species Dude has been eliminated!
+Species Higuys has been eliminated!
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species BestestThing has been eliminated!
+Species AConquerer has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920734209
+config file: config.txt
+population steps to run simulation: 1000
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species God has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species NewCreature has been eliminated!
+Species FPhalanx has been eliminated!
+Species Higuys has been eliminated!
+Species TrapRover has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920732014
+config file: config.txt
+population steps to run simulation: 1000
+Species Higuys has been eliminated!
+Species LetsDance has been eliminated!
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species CornerMine has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species God has been eliminated!
+Game over at generation 368, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920729835
+config file: config.txt
+population steps to run simulation: 1000
+Species Higuys has been eliminated!
+Species FPhalanx has been eliminated!
+Species God has been eliminated!
+Species Dude has been eliminated!
+Species Ploney has been eliminated!
+Species NewCreature has been eliminated!
+Species CornerMine has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Game over at generation 604, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920727793
+config file: config.txt
+population steps to run simulation: 1000
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species BestestThing has been eliminated!
+Species CornerMine has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Game over at generation 379, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920725656
+config file: config.txt
+population steps to run simulation: 1000
+Species FPhalanx has been eliminated!
+Species Higuys has been eliminated!
+Species AConquerer has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species CornerMine has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species NewCreature has been eliminated!
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Game over at generation 409, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920723592
+config file: config.txt
+population steps to run simulation: 1000
+Species BestestThing has been eliminated!
+Species NewCreature has been eliminated!
+Species CornerMine has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species Dude has been eliminated!
+Species FPhalanx has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 427, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920721538
+config file: config.txt
+population steps to run simulation: 1000
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species Dude has been eliminated!
+Species Higuys has been eliminated!
+Species LetsDance has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920719159
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species LetsDance has been eliminated!
+Species FPhalanx has been eliminated!
+Species Dude has been eliminated!
+Species NewCreature has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species CornerMine has been eliminated!
+Game over at generation 339, species BestestThing wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920716930
+config file: config.txt
+population steps to run simulation: 1000
+Species LetsDance has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species FPhalanx has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Species TrapRover has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 460, species NewCreature wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920714724
+config file: config.txt
+population steps to run simulation: 1000
+Species CornerMine has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species FPhalanx has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species NewCreature has been eliminated!
+Species God has been eliminated!
+Species LetsDance has been eliminated!
+Species AConquerer has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 254, species BestestThing wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920712639
+config file: config.txt
+population steps to run simulation: 1000
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species AConquerer has been eliminated!
+Species God has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species NewCreature has been eliminated!
+Species CornerMine has been eliminated!
+Game over at generation 446, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920710739
+config file: config.txt
+population steps to run simulation: 1000
+Species Higuys has been eliminated!
+Species AConquerer has been eliminated!
+Species Ploney has been eliminated!
+Species God has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species CornerMine has been eliminated!
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+Species FPhalanx has been eliminated!
+Game over at generation 608, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920708336
+config file: config.txt
+population steps to run simulation: 1000
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species Higuys has been eliminated!
+Species NewCreature has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Species TrapRover has been eliminated!
+Game over at generation 683, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920706257
+config file: config.txt
+population steps to run simulation: 1000
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species CornerMine has been eliminated!
+Species Ploney has been eliminated!
+Species Dude has been eliminated!
+Species God has been eliminated!
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 599, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920704054
+config file: config.txt
+population steps to run simulation: 1000
+Species LetsDance has been eliminated!
+Species TrapRover has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species Dude has been eliminated!
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 674, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920701982
+config file: config.txt
+population steps to run simulation: 1000
+Species Dude has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species BestestThing has been eliminated!
+Species LetsDance has been eliminated!
+Species FPhalanx has been eliminated!
+Species God has been eliminated!
+Species CornerMine has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920699799
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species FPhalanx has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species Ploney has been eliminated!
+Species Dude has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 599, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920697704
+config file: config.txt
+population steps to run simulation: 1000
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+Species Dude has been eliminated!
+Species God has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920695445
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species LetsDance has been eliminated!
+Species God has been eliminated!
+Species Higuys has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 264, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920693426
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species NewCreature has been eliminated!
+Species Higuys has been eliminated!
+Species Dude has been eliminated!
+Species FPhalanx has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species BestestThing has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920691206
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species LetsDance has been eliminated!
+Species Dude has been eliminated!
+Species NewCreature has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Species CornerMine has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 532, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920689179
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species God has been eliminated!
+Species Dude has been eliminated!
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Game over at generation 256, species EPatrolBot5000 wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920687167
+config file: config.txt
+population steps to run simulation: 1000
+Species AConquerer has been eliminated!
+Species LetsDance has been eliminated!
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species CornerMine has been eliminated!
+Species NewCreature has been eliminated!
+Species FPhalanx has been eliminated!
+Game over at generation 381, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920684975
+config file: config.txt
+population steps to run simulation: 1000
+Species NewCreature has been eliminated!
+Species BestestThing has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Ploney has been eliminated!
+Species AConquerer has been eliminated!
+Species TrapRover has been eliminated!
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species Dude has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920682639
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species NewCreature has been eliminated!
+Species God has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920680461
+config file: config.txt
+population steps to run simulation: 1000
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species FPhalanx has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 330, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920678348
+config file: config.txt
+population steps to run simulation: 1000
+Species LetsDance has been eliminated!
+Species Higuys has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species NewCreature has been eliminated!
+Species God has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 330, species BestestThing wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920676349
+config file: config.txt
+population steps to run simulation: 1000
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species Dude has been eliminated!
+Species BestestThing has been eliminated!
+Species CornerMine has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Species TrapRover has been eliminated!
+Species God has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920674207
+config file: config.txt
+population steps to run simulation: 1000
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+Species Ploney has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920672052
+config file: config.txt
+population steps to run simulation: 1000
+Species Dude has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+Species God has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Game over at generation 495, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920670004
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Dude has been eliminated!
+Species LetsDance has been eliminated!
+Species NewCreature has been eliminated!
+Species CornerMine has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species Ploney has been eliminated!
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species FPhalanx has been eliminated!
+Game over at generation 279, species EPatrolBot5000 wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920667983
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species NewCreature has been eliminated!
+Species CornerMine has been eliminated!
+Species FPhalanx has been eliminated!
+Species Higuys has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 577, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920665904
+config file: config.txt
+population steps to run simulation: 1000
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species NewCreature has been eliminated!
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Species Dude has been eliminated!
+Species Ploney has been eliminated!
+Species TrapRover has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Game over at generation 301, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920663913
+config file: config.txt
+population steps to run simulation: 1000
+Species AConquerer has been eliminated!
+Species God has been eliminated!
+Species Higuys has been eliminated!
+Species LetsDance has been eliminated!
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species CornerMine has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 459, species BestestThing wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920661797
+config file: config.txt
+population steps to run simulation: 1000
+Species BestestThing has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species God has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species TrapRover has been eliminated!
+Species CornerMine has been eliminated!
+Species NewCreature has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Species LetsDance has been eliminated!
+Game over at generation 203, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920659833
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species LetsDance has been eliminated!
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Higuys has been eliminated!
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species God has been eliminated!
+Species Dude has been eliminated!
+Species NewCreature has been eliminated!
+Game over at generation 229, species BestestThing wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920657857
+config file: config.txt
+population steps to run simulation: 1000
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species Dude has been eliminated!
+Species CornerMine has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species FPhalanx has been eliminated!
+Species LetsDance has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Game over at generation 774, species AConquerer wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920655621
+config file: config.txt
+population steps to run simulation: 1000
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+Species Higuys has been eliminated!
+Species Dude has been eliminated!
+Species God has been eliminated!
+Species BestestThing has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 485, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920653436
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species Dude has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species FPhalanx has been eliminated!
+Game over at generation 826, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920651087
+config file: config.txt
+population steps to run simulation: 1000
+Species BestestThing has been eliminated!
+Species TrapRover has been eliminated!
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920648991
+config file: config.txt
+population steps to run simulation: 1000
+Species EPatrolBot5000 has been eliminated!
+Species TrapRover has been eliminated!
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species Ploney has been eliminated!
+Species Dude has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species LetsDance has been eliminated!
+Species NewCreature has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920646679
+config file: config.txt
+population steps to run simulation: 1000
+Species FPhalanx has been eliminated!
+Species CornerMine has been eliminated!
+Species NewCreature has been eliminated!
+Species LetsDance has been eliminated!
+Species Ploney has been eliminated!
+Species God has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species Higuys has been eliminated!
+Species AConquerer has been eliminated!
+Species TrapRover has been eliminated!
+Game over at generation 255, species BestestThing wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920644705
+config file: config.txt
+population steps to run simulation: 1000
+Species Dude has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species TrapRover has been eliminated!
+Species CornerMine has been eliminated!
+Species Higuys has been eliminated!
+Species LetsDance has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920642703
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species CornerMine has been eliminated!
+Species Dude has been eliminated!
+Species LetsDance has been eliminated!
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Species Higuys has been eliminated!
+Species BestestThing has been eliminated!
+Species AConquerer has been eliminated!
+Species God has been eliminated!
+Game over at generation 420, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920640737
+config file: config.txt
+population steps to run simulation: 1000
+Species BestestThing has been eliminated!
+Species God has been eliminated!
+Species LetsDance has been eliminated!
+Species Higuys has been eliminated!
+Species CornerMine has been eliminated!
+Species Ploney has been eliminated!
+Species Dude has been eliminated!
+Species NewCreature has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species TrapRover has been eliminated!
+Game over at generation 596, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920638633
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species TrapRover has been eliminated!
+Species God has been eliminated!
+Species Higuys has been eliminated!
+Species AConquerer has been eliminated!
+Species LetsDance has been eliminated!
+Species CornerMine has been eliminated!
+Species FPhalanx has been eliminated!
+Species Dude has been eliminated!
+Species BestestThing has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 547, species NewCreature wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920636487
+config file: config.txt
+population steps to run simulation: 1000
+Species LetsDance has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species CornerMine has been eliminated!
+Species Dude has been eliminated!
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Species BestestThing has been eliminated!
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Game over at generation 270, species EPatrolBot5000 wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920634475
+config file: config.txt
+population steps to run simulation: 1000
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Species Higuys has been eliminated!
+Species Dude has been eliminated!
+Species CornerMine has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species FPhalanx has been eliminated!
+Species LetsDance has been eliminated!
+Species Ploney has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 396, species EPatrolBot5000 wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920632410
+config file: config.txt
+population steps to run simulation: 1000
+Species LetsDance has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species TrapRover has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species CornerMine has been eliminated!
+Species Higuys has been eliminated!
+Species Dude has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 533, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920630367
+config file: config.txt
+population steps to run simulation: 1000
+Species FPhalanx has been eliminated!
+Species NewCreature has been eliminated!
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species LetsDance has been eliminated!
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species Dude has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Game over at generation 406, species TrapRover wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920628281
+config file: config.txt
+population steps to run simulation: 1000
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species LetsDance has been eliminated!
+Species NewCreature has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 296, species EPatrolBot5000 wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920626213
+config file: config.txt
+population steps to run simulation: 1000
+Species God has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Species CornerMine has been eliminated!
+Species Dude has been eliminated!
+Species LetsDance has been eliminated!
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species TrapRover has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920624063
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species Dude has been eliminated!
+Species AConquerer has been eliminated!
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species LetsDance has been eliminated!
+Species TrapRover has been eliminated!
+Species CornerMine has been eliminated!
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Game over at generation 206, species EPatrolBot5000 wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920622063
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species LetsDance has been eliminated!
+Species BestestThing has been eliminated!
+Species CornerMine has been eliminated!
+Species AConquerer has been eliminated!
+Species Higuys has been eliminated!
+Species Dude has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920619827
+config file: config.txt
+population steps to run simulation: 1000
+Species NewCreature has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species TrapRover has been eliminated!
+Species BestestThing has been eliminated!
+Species CornerMine has been eliminated!
+Species Dude has been eliminated!
+Species AConquerer has been eliminated!
+Species God has been eliminated!
+Species LetsDance has been eliminated!
+Game over at generation 798, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920617448
+config file: config.txt
+population steps to run simulation: 1000
+Species BestestThing has been eliminated!
+Species Ploney has been eliminated!
+Species CornerMine has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species AConquerer has been eliminated!
+Species Higuys has been eliminated!
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920615169
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species TrapRover has been eliminated!
+Species LetsDance has been eliminated!
+Species Higuys has been eliminated!
+Species Dude has been eliminated!
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920613023
+config file: config.txt
+population steps to run simulation: 1000
+Species AConquerer has been eliminated!
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species LetsDance has been eliminated!
+Species God has been eliminated!
+Species FPhalanx has been eliminated!
+Species BestestThing has been eliminated!
+Species TrapRover has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species CornerMine has been eliminated!
+Game over at generation 139, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920611042
+config file: config.txt
+population steps to run simulation: 1000
+Species AConquerer has been eliminated!
+Species God has been eliminated!
+Species BestestThing has been eliminated!
+Species FPhalanx has been eliminated!
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species CornerMine has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Higuys has been eliminated!
+Species TrapRover has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 288, species LetsDance wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920609126
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species CornerMine has been eliminated!
+Species Higuys has been eliminated!
+Species FPhalanx has been eliminated!
+Species God has been eliminated!
+Species LetsDance has been eliminated!
+Species Ploney has been eliminated!
+Species BestestThing has been eliminated!
+Species AConquerer has been eliminated!
+Game over at generation 147, species Dude wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920607196
+config file: config.txt
+population steps to run simulation: 1000
+Species BestestThing has been eliminated!
+Species LetsDance has been eliminated!
+Species Higuys has been eliminated!
+Species NewCreature has been eliminated!
+Species Dude has been eliminated!
+Species God has been eliminated!
+Species Ploney has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species AConquerer has been eliminated!
+Species TrapRover has been eliminated!
+Species CornerMine has been eliminated!
+Game over at generation 236, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920605159
+config file: config.txt
+population steps to run simulation: 1000
+Species CornerMine has been eliminated!
+Species God has been eliminated!
+Species LetsDance has been eliminated!
+Species BestestThing has been eliminated!
+Species Higuys has been eliminated!
+Species TrapRover has been eliminated!
+Species Ploney has been eliminated!
+Species AConquerer has been eliminated!
+Species NewCreature has been eliminated!
+Species Dude has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Game over at generation 689, species FPhalanx wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920602901
+config file: config.txt
+population steps to run simulation: 1000
+Species Ploney has been eliminated!
+Species TrapRover has been eliminated!
+Species AConquerer has been eliminated!
+Species LetsDance has been eliminated!
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species BestestThing has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920600792
+config file: config.txt
+population steps to run simulation: 1000
+Species Dude has been eliminated!
+Species TrapRover has been eliminated!
+Species CornerMine has been eliminated!
+Species LetsDance has been eliminated!
+Species FPhalanx has been eliminated!
+Species Higuys has been eliminated!
+Species NewCreature has been eliminated!
+Species Ploney has been eliminated!
+Species AConquerer has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 726, species God wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920598678
+config file: config.txt
+population steps to run simulation: 1000
+Species TrapRover has been eliminated!
+Species Higuys has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species Dude has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species LetsDance has been eliminated!
+Species NewCreature has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 534, species CornerMine wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920596584
+config file: config.txt
+population steps to run simulation: 1000
+Species Dude has been eliminated!
+Species TrapRover has been eliminated!
+Species NewCreature has been eliminated!
+Species CornerMine has been eliminated!
+Species God has been eliminated!
+Species Higuys has been eliminated!
+Species FPhalanx has been eliminated!
+Species AConquerer has been eliminated!
+Species Ploney has been eliminated!
+Species BestestThing has been eliminated!
+Species LetsDance has been eliminated!
+Game over at generation 250, species EPatrolBot5000 wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920594601
+config file: config.txt
+population steps to run simulation: 1000
+Species God has been eliminated!
+Species NewCreature has been eliminated!
+Species Higuys has been eliminated!
+Species Ploney has been eliminated!
+Species FPhalanx has been eliminated!
+Species TrapRover has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species LetsDance has been eliminated!
+Species BestestThing has been eliminated!
+Species AConquerer has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920592379
+config file: config.txt
+population steps to run simulation: 1000
+Species CornerMine has been eliminated!
+Species NewCreature has been eliminated!
+Species Higuys has been eliminated!
+Species LetsDance has been eliminated!
+Species Ploney has been eliminated!
+Species AConquerer has been eliminated!
+Species BestestThing has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species TrapRover has been eliminated!
+Species FPhalanx has been eliminated!
+Species Dude has been eliminated!
+Game over at generation 449, species God wins!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920590366
+config file: config.txt
+population steps to run simulation: 1000
+Species God has been eliminated!
+Species Dude has been eliminated!
+Species AConquerer has been eliminated!
+Species LetsDance has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Ploney has been eliminated!
+Species TrapRover has been eliminated!
+Species Higuys has been eliminated!
+Species NewCreature has been eliminated!
+Species BestestThing has been eliminated!
+660
+running program with settings:
+graphics on? false
+simulation speed: 3
+random number seed: -920588278
+config file: config.txt
+population steps to run simulation: 1000
+Species CornerMine has been eliminated!
+Species EPatrolBot5000 has been eliminated!
+Species Dude has been eliminated!
+Species FPhalanx has been eliminated!
+Species TrapRover has been eliminated!
+Species God has been eliminated!
+Species AConquerer has been eliminated!
+Species Ploney has been eliminated!
+Species Higuys has been eliminated!
+Species NewCreature has been eliminated!
+Species BestestThing has been eliminated!
+Game over at generation 262, species LetsDance wins!

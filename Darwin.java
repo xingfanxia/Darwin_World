@@ -1,5 +1,6 @@
 /* Code by Sherri Goings
    For Darwin Final Project in CS201 (Data Structures)
+   Last Modified for Fall 2011 Term
    --------------------------------------------------------------------------------------------------
    The WorldMap class handles all of the graphics in the Darwin simluation. It depends on the 
    Draw class for the actual drawing, and also the Point class and Direction enum for other operations. 
@@ -11,7 +12,7 @@ import java.lang.*;
 
 public class Darwin {
     public static int speed = 3;
-    public static int pauseTime = 100;
+    public static int pauseTime;
     public static int randSeed = (int)System.currentTimeMillis();
     public static String configFile = "configs/config.txt";
     public static int runSteps = 100;
@@ -20,25 +21,23 @@ public class Darwin {
     public static int curGen=0;
     public static boolean graphics=true;
     public static boolean quiet=false;
-
-    // Java won't automatically compile/recompile WorldGraph.java when compile
-    // Darwin unless there's a reference to a WorldGraph object in this class.
     public static WorldGraph forCompilingPurposesNeverActuallyUsed;
-    
-    // get a random Point from the world grid and add the creature at that point	
+    public static int numSpec = 0;
+
     private static void addCreature(BaseSpecies spec) {
+        // get a random Point from the world grid and add the creature at that point	
         Point p = world.getOpenPoint();
         addCreature(spec, p);
     }
 
-    // add a creature of the given species to the world at the given point
     private static void addCreature(BaseSpecies spec, Point p) {
-        Direction d = Direction.getAt(world.rgen.nextInt(4));
+   	Direction d = Direction.getAt(world.rgen.nextInt(4));
 	BaseCreature c = new Creature(spec, p, d, world);
 	pop.add(c);
 	if (graphics)
-	    world.worldMap().updateSquare(p, spec.getName().substring(0,1), d);
+	    world.worldMap().updateSquare(p, spec.getName().substring(0,1), d, spec.getColor());
 	world.worldGraph().addCreature(p, c);
+        spec.addAlive();
     }
     
     private static boolean processConfigFile() {
@@ -78,8 +77,10 @@ public class Darwin {
 		    int numToSetPlace = 0;
 
 		    // checking if SPECIES_FILE has proper filename argument
-		    if (scan.hasNext())
-			curSpec = new Species(scan.next());
+		    if (scan.hasNext()) {
+			curSpec = new Species(scan.next(), numSpec);
+                        numSpec++;
+                    }
 		    else {
 			System.out.println("error in config file, SPECIES_FILE must be followed by a filename");
 			return false;
@@ -192,6 +193,7 @@ public class Darwin {
     }
 
     private static boolean setPauseTime() {
+	System.out.println("speed is " + speed);
 	switch(speed) {
 	case 5:
 	    pauseTime = 0;
@@ -200,6 +202,7 @@ public class Darwin {
 	    pauseTime = 5;
 	    break;
 	case 3:
+	    System.out.println("speed is really really 3\n\n");
 	    pauseTime = 10;
 	    break;
 	case 2:
@@ -279,10 +282,10 @@ public class Darwin {
 	}   
 	BaseCreature c = it.next();
 	if (graphics)
-	    world.worldMap().updateSquare(c.getPoint(), " ", c.getDir());
+	    world.worldMap().updateSquare(c.getPoint(), " ", c.getDir(), -1);
 	c.takeOneTurn();
 	if (graphics)
-	    world.worldMap().updateSquare(c.getPoint(), c.getSpecies().getName().substring(0,1), c.getDir());
+	    world.worldMap().updateSquare(c.getPoint(), c.getSpecies().getName().substring(0,1), c.getDir(), c.getSpecies().getColor());
 	return it;
     }
 
@@ -296,8 +299,18 @@ public class Darwin {
     }
 
     private static void endOfGeneration() {
-	if (graphics)
+	if (graphics) {
 	    world.worldMap().updateGen(curGen);
+            for (BaseCreature c : pop) {
+                world.worldMap().updateSquare(c.getPoint(), " ", c.getDir(), -1);
+            }
+            Draw.drawScreen();
+            for (BaseCreature c : pop) {
+                world.worldMap().updateSquare(c.getPoint(), c.getSpecies().getName().substring(0,1), c.getDir(),
+                                              c.getSpecies().getColor());
+            }
+            Draw.drawScreen();
+        }
 
 	if (gameOver()) {
 	    System.out.println("Game over at generation "+curGen+", species "+pop.getFirst().getSpecies().getName()+" wins!");
@@ -325,9 +338,9 @@ public class Darwin {
 	    System.out.println("-s speed     :  sets speed of simulation to int <speed>, valid range is [1-5]. default=3");
 	    System.out.println("-c configFile: sets file to read configuration from to String <configFile>. default='config.txt'");
 	    System.out.println("-r randSeed  :  sets random number seed for simluation to int <randSeed>. default uses system time ");
-            System.out.println("-q : quiet mode, won't print values of config options");
 	    return;
 	}
+
 	System.out.println("\n*** Note - to see command line options type 'java Darwin -h' in terminal\n");
 
 	setPauseTime();
@@ -375,6 +388,8 @@ public class Darwin {
 		}
 	    }
 	   
-	}		   
+	}
+        if (!graphics)
+            System.exit(1);		   
     }
 }

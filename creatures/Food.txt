@@ -1,4 +1,1 @@
-oodFay
-2
-LEFT
-GOTO 0
+OodFay2LEFTGOTO 0

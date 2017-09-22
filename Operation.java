@@ -1,5 +1,6 @@
 /* Code by Sherri Goings
    For Darwin Final Project in CS201 (Data Structures)
+   Last Modified for Fall 2011 Term
    --------------------------------------------------------------------------------------------------
    The enum Operation stores the valid operations a Creature can perform. It also includes a 
    function to find a specific operation given a String that is the operation's name.
@@ -10,11 +11,11 @@ public enum Operation {
     
     // returns the operation that matches a String of the same name, or null if no match found
     public static Operation findOpFromString(String testString) {
-    	for (Operation op : Operation.values()) {
-    	    if (op.name().equals(testString)) 
-    		    return op;
-    	}
-    	return null;
+	for (Operation op : Operation.values()) {
+	    if (op.name().equals(testString)) 
+		return op;
+	}
+	return null;
     }
 
     /* shows example use of the Operation enum type. See Direction.java for more specifics

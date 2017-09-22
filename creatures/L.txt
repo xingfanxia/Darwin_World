@@ -1,0 +1,1 @@
+LetsDance11IFENEMY 9IFWALL 7IFSAME 7IFRANDOM 7IFRANDOM 7HOPGOTO 0RIGHTGOTO 0INFECTGOTO 0It's a flytrap that occasionally jumps forward!
